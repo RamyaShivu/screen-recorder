@@ -1,5 +1,3 @@
-Deployed Demo
-https://sketchit-4d2b4.web.app/
 # SketchIt
 ## A screen recorder website created using HTML CSS and JS libraries
 
